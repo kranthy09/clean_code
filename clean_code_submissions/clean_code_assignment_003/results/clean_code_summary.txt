@@ -1,0 +1,5 @@
+Clean Code Results Summary at 23 Apr 09 50 PM:
+
+Overall Score: 0
+
+File wise summary:

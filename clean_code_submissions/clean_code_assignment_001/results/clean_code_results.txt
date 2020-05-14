@@ -1,0 +1,8 @@
+************* Module car.py
+car.py:1: [F0001(fatal), ] No module named car.py
+************* Module truck.py
+truck.py:1: [F0001(fatal), ] No module named truck.py
+************* Module race_car.py
+race_car.py:1: [F0001(fatal), ] No module named race_car.py
+************* Module tests
+tests:1: [F0001(fatal), ] No module named tests

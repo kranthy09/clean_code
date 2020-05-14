@@ -1,0 +1,60 @@
+Tests ran at 23 Apr 09 50 PM
+
+0 tests passed out of 52 tests.
+
+test_store.py::test_print_item: failed
+test_store.py::test_when_print_two_items: failed
+test_store.py::test_when_price_is_zero: failed
+test_store.py::test_when_price_is_negative: failed
+test_store.py::test_print_query: failed
+test_store.py::test_when_printing_two_query: failed
+test_store.py::test_invalid_value_for_query_operation: failed
+test_store.py::test_add_items_to_store: failed
+test_store.py::test_creating_two_stores: failed
+test_store.py::test_print_empty_store: failed
+test_store.py::test_print_items_in_store: failed
+test_store.py::test_filter_eq_name_field: failed
+test_store.py::test_filter_eq_price_field: failed
+test_store.py::test_filter_eq_category_field: failed
+test_store.py::test_filter_in_name_field: failed
+test_store.py::test_filter_in_price_field: failed
+test_store.py::test_filter_in_category_field: failed
+test_store.py::test_filter_gt_price_field: failed
+test_store.py::test_filter_gte_price_field: failed
+test_store.py::test_filter_gte_price_field_equal_case: failed
+test_store.py::test_filter_lt_price_field: failed
+test_store.py::test_filter_lte_price_field: failed
+test_store.py::test_filter_lte_price_field_equal_case: failed
+test_store.py::test_filter_starts_with_name_field: failed
+test_store.py::test_filter_starts_with_category_field: failed
+test_store.py::test_filter_ends_with_name_field: failed
+test_store.py::test_filter_ends_with_category_field: failed
+test_store.py::test_filter_contains_name_field: failed
+test_store.py::test_filter_contains_category_field: failed
+test_store.py::test_store_after_filter: failed
+test_store.py::test_exclude_eq_name_field: failed
+test_store.py::test_exclude_eq_price_field: failed
+test_store.py::test_exclude_eq_category_field: failed
+test_store.py::test_exclude_in_name_field: failed
+test_store.py::test_exclude_in_price_field: failed
+test_store.py::test_exclude_in_category_field: failed
+test_store.py::test_exclude_gt_price_field: failed
+test_store.py::test_exclude_gte_price_field: failed
+test_store.py::test_exclude_gte_price_field_equal_case: failed
+test_store.py::test_exclude_lt_price_field: failed
+test_store.py::test_exclude_lte_price_field: failed
+test_store.py::test_exclude_lte_price_field_equal_case: failed
+test_store.py::test_exclude_starts_with_name_field: failed
+test_store.py::test_exclude_starts_with_category_field: failed
+test_store.py::test_exclude_ends_with_name_field: failed
+test_store.py::test_exclude_ends_with_category_field: failed
+test_store.py::test_exclude_contains_name_field: failed
+test_store.py::test_exclude_contains_category_field: failed
+test_store.py::test_store_after_exclude: failed
+test_store.py::test_chained_filters: failed
+test_store.py::test_chained_filter_and_exclude: failed
+test_store.py::test_count_store_items: failed
+
+
+Errors: 0 errors
+
