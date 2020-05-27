@@ -3,7 +3,9 @@ from fb_post.models import Post
 
 
 def get_posts_with_more_positive_reactions():
-
+    """
+    need to be revised not an appropriate one
+    """
     posts = Post.objects\
         .prefetch_related(
             Prefetch('reaction_set', to_attr='reactions_to_this_post'))\
