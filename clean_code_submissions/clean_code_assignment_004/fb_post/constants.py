@@ -1,8 +1,9 @@
 from django.db import models
+import enum
 from datetime import datetime
 
 
-class ReactionChoice(models.TextChoices):
+class ReactionChoice(enum.Enum):
 
     WOW = 'WOW'
     LIT = 'LIT'
